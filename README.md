@@ -17,7 +17,7 @@
 I'm a **B.Tech CSE student** at Heritage Institute of Technology, Kolkata (CGPA: 8.1), passionate about **Generative AI, Machine Learning, and building data-driven solutions**. I love working at the intersection of AI and real-world problem solving — from wildlife emergency apps built in 36-hour hackathons to AI-powered finance tools.
 
 - 🔭 Currently exploring **Generative AI & LLMs**
-- 🌱 Deepening my skills in **Deep Learning & MLOps**
+- 🌱 Deepening my skills in **Deep Learning & Autonomous Agents**
 - 🏆 Participant in **Google Solution Challenge 2025** & **MLH Hackathons**
 - 💬 Ask me about **Python, ML pipelines, EDA, and Generative AI**
 - 📍 Based in **Kolkata, West Bengal, India**
